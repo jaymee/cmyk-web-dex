@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d77420a9a33dbe71efc84f5e61f82505",
+    "revision": "e8b5fd4e20196fc8a2f5be702f63447d",
     "url": "/cmyk-web-dex/index.html"
   },
   {
-    "revision": "5304ff7ce87cedf528c4",
-    "url": "/cmyk-web-dex/static/css/main.5f361e03.chunk.css"
+    "revision": "64557542fbed75c0d0eb",
+    "url": "/cmyk-web-dex/static/css/main.7c865793.chunk.css"
   },
   {
     "revision": "beaa489b315f3911ca09",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cmyk-web-dex/static/js/2.a4e944b6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5304ff7ce87cedf528c4",
+    "revision": "64557542fbed75c0d0eb",
     "url": "/cmyk-web-dex/static/js/main.4602bd45.chunk.js"
   },
   {
