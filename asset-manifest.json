@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cmyk-web-dex/static/css/main.7c865793.chunk.css",
-    "main.js": "/cmyk-web-dex/static/js/main.289a420a.chunk.js",
-    "main.js.map": "/cmyk-web-dex/static/js/main.289a420a.chunk.js.map",
+    "main.js": "/cmyk-web-dex/static/js/main.c4b3308c.chunk.js",
+    "main.js.map": "/cmyk-web-dex/static/js/main.c4b3308c.chunk.js.map",
     "runtime-main.js": "/cmyk-web-dex/static/js/runtime-main.ea921fd7.js",
     "runtime-main.js.map": "/cmyk-web-dex/static/js/runtime-main.ea921fd7.js.map",
     "static/js/2.a4e944b6.chunk.js": "/cmyk-web-dex/static/js/2.a4e944b6.chunk.js",
     "static/js/2.a4e944b6.chunk.js.map": "/cmyk-web-dex/static/js/2.a4e944b6.chunk.js.map",
     "index.html": "/cmyk-web-dex/index.html",
-    "precache-manifest.f2c9d76d74e70258ea0549c1e5b70126.js": "/cmyk-web-dex/precache-manifest.f2c9d76d74e70258ea0549c1e5b70126.js",
+    "precache-manifest.ecda1187a89b0e93702970e7285b5ef4.js": "/cmyk-web-dex/precache-manifest.ecda1187a89b0e93702970e7285b5ef4.js",
     "service-worker.js": "/cmyk-web-dex/service-worker.js",
     "static/css/main.7c865793.chunk.css.map": "/cmyk-web-dex/static/css/main.7c865793.chunk.css.map",
     "static/js/2.a4e944b6.chunk.js.LICENSE.txt": "/cmyk-web-dex/static/js/2.a4e944b6.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.ea921fd7.js",
     "static/js/2.a4e944b6.chunk.js",
     "static/css/main.7c865793.chunk.css",
-    "static/js/main.289a420a.chunk.js"
+    "static/js/main.c4b3308c.chunk.js"
   ]
 }
