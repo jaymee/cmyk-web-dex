@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ee0bac14333f624b512d0ca504c7fd4f",
+    "revision": "b31eeed5c186f0fb7c63145fc2c0e9c5",
     "url": "/cmyk-web-dex/index.html"
   },
   {
-    "revision": "b75a1331394f42f2644d",
+    "revision": "92286f1a0ffe4e48a818",
     "url": "/cmyk-web-dex/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "66b89df868dfcb9a7512",
-    "url": "/cmyk-web-dex/static/js/2.61c693c2.chunk.js"
+    "revision": "beaa489b315f3911ca09",
+    "url": "/cmyk-web-dex/static/js/2.a4e944b6.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/cmyk-web-dex/static/js/2.61c693c2.chunk.js.LICENSE.txt"
+    "url": "/cmyk-web-dex/static/js/2.a4e944b6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b75a1331394f42f2644d",
-    "url": "/cmyk-web-dex/static/js/main.2ff5ff8f.chunk.js"
+    "revision": "92286f1a0ffe4e48a818",
+    "url": "/cmyk-web-dex/static/js/main.18065634.chunk.js"
   },
   {
     "revision": "d480f29db63c3eb0fa96",
